@@ -13,6 +13,16 @@
     />
     <img
       loading="lazy"
+      alt="css"
+      src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
+    />
+    <img
+      loading="lazy"
+      alt="css"
+      src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
+    />
+    <img
+      loading="lazy"
       alt="js"
       src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
     />
