@@ -23,6 +23,11 @@
     />
     <img
       loading="lazy"
+      alt="css"
+      src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"
+    />
+    <img
+      loading="lazy"
       alt="js"
       src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
     />
