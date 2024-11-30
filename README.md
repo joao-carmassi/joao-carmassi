@@ -38,6 +38,11 @@
     />
     <img
       loading="lazy"
+      alt="css"
+      src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
+    />
+    <img
+      loading="lazy"
       alt="git"
       src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
     />
