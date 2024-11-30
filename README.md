@@ -33,6 +33,11 @@
     />
     <img
       loading="lazy"
+      alt="css"
+      src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
+    />
+    <img
+      loading="lazy"
       alt="git"
       src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
     />
