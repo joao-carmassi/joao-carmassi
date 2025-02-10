@@ -87,7 +87,7 @@
 <div>
   <h2>Languages 📓</h2>
   <ul>
-    <li>English: B2 Level</li>
+    <li>English: C1 Level</li>
     <li>Spanish: B2 Level</li>
   </ul>
 </div>
