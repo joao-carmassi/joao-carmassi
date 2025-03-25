@@ -43,6 +43,11 @@
     />
     <img
       loading="lazy"
+      alt="css"
+      src="https://shields.io/badge/react-black?logo=react&style=for-the-badge"
+    />
+    <img
+      loading="lazy"
       alt="git"
       src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
     />
@@ -91,11 +96,6 @@
     <li>Spanish: B2 Level</li>
   </ul>
 </div>
-
-<!-- <div>
-  <h2>Portfolio</h2>
-  <p><a href="https://meuportfolio.com">My Portfolio</a></p>
-</div> -->
 
 <div align="center">
   <h2>Contacts 📱</h2>
