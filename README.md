@@ -24,11 +24,11 @@
   <h1 align="center">Languages 📓</h1>
 </div>
 
-### English:
-#### C1 proficiency level – able to communicate fluently, both spoken and written, with a solid understanding of complex texts and technical documentation.
+## English:
+### C1 proficiency level – able to communicate fluently, both spoken and written, with a solid understanding of complex texts and technical documentation.
 
-### Spanish:
-#### B2 level – Upper-intermediate proficiency, able to converse effectively and understand a wide range of topics.
+## Spanish:
+### B2 level – Upper-intermediate proficiency, able to converse effectively and understand a wide range of topics.
 
 <br>
 
