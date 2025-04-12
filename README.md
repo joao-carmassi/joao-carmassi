@@ -88,12 +88,12 @@
   
   <div>
     <img
-      width="59%"
-      src="https://github-readme-stats.vercel.app/api?username=joao-carmassi&title_color=0077b5&icon_color=0077b5&text_color=ffffff&bg_color=0d1117&show_icons=true"
-    />
-    <img
       width="40%"
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-carmassi&title_color=0077b5&icon_color=0077b5&text_color=ffffff&bg_color=0d1117&show_icons=true&layout=donut"
+    />
+    <img
+      width="59%"
+      src="https://github-readme-stats.vercel.app/api?username=joao-carmassi&title_color=0077b5&icon_color=0077b5&text_color=ffffff&bg_color=0d1117&show_icons=true"
     />
   </div>
   <div>
