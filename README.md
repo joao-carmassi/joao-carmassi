@@ -1,3 +1,37 @@
+<div>
+  <img
+      alt="banner perfil"
+      src="./public/banner.png"
+    />
+</div>
+
+<br>
+
+<div>
+  <h1 align="center">About Me 👤</h1>
+</div>
+
+#### Hello! My name is João Vitor Carmassi, and I’m a web developer specialized in front-end. I have a strong passion for building interactive, responsive, and user-centered interfaces using technologies like React and Tailwind CSS.
+
+#### I’m always motivated by the constant challenges that programming brings and the chance to create innovative solutions. The tech industry’s evolution keeps me on my toes, and every new learning experience feels like a step forward. Solving real-world problems through code is one of the most rewarding aspects of my work.
+
+#### When I’m not coding, I engage in activities such as gaming, listening to music, watching movies and series, and spending time with friends. I also enjoy exploring new locations, hiking, and participating in outdoor activities, as I believe in the importance of a well-rounded lifestyle for personal growth and maintaining a healthy work-life balance.
+
+
+<br>
+
+<div>
+  <h1 align="center">Languages 📓</h1>
+</div>
+
+### English:
+#### C1 proficiency level – able to communicate fluently, both spoken and written, with a solid understanding of complex texts and technical documentation.
+
+### Spanish:
+#### B2 level – Upper-intermediate proficiency, able to converse effectively and understand a wide range of topics.
+
+<br>
+
 <div align="center">
   <h1>Personal Stats ⚡</h1>
   <div>
@@ -13,37 +47,37 @@
     />
     <img
       loading="lazy"
-      alt="css"
+      alt="tailwindcss"
       src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
     />
     <img
       loading="lazy"
-      alt="css"
+      alt="bootstrap"
       src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
     />
     <img
       loading="lazy"
-      alt="css"
+      alt="SASS"
       src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"
     />
     <img
       loading="lazy"
-      alt="js"
+      alt="JavaScript"
       src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
     />
     <img
       loading="lazy"
-      alt="css"
+      alt="typescript"
       src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
     />
     <img
       loading="lazy"
-      alt="css"
+      alt="vuejs"
       src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
     />
     <img
       loading="lazy"
-      alt="css"
+      alt="react"
       src="https://shields.io/badge/react-black?logo=react&style=for-the-badge"
     />
     <img
@@ -57,7 +91,9 @@
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
     />
   </div>
+  
   <br />
+  
   <div>
     <img
       width="59%"
@@ -76,29 +112,10 @@
   </div>
 </div>
 
-<div>
-  <h2>About Me 👤</h2>
-  <p>
-    Hello! My name is João Vitor Carmassi, a web developer specialized in
-    front-end. I have a passion for creating interactive and responsive user
-    interfaces.
-  </p>
-  <p>
-    When I'm not coding, I enjoy gaming, listening to music, watching
-    movies/series, and hanging out with friends.
-  </p>
-</div>
-
-<div>
-  <h2>Languages 📓</h2>
-  <ul>
-    <li>English: C1 Level</li>
-    <li>Spanish: B2 Level</li>
-  </ul>
-</div>
+<br>
 
 <div align="center">
-  <h2>Contacts 📱</h2>
+  <h1>Contacts 📱</h1>
   <a href="mailto:joaovitorcarmassi@gmail.com">
     <img
       loading="lazy"
