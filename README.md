@@ -1,13 +1,10 @@
-<div>
-  <img
-      alt="banner perfil"
-      src="./public/banner.png"
-    />
-</div>
 
-<div>
-  <h1 align="center">About Me 👤</h1>
-</div>
+<img
+  alt="banner perfil"
+  src="./public/banner.webp"
+/>
+
+<h1 align="center">About Me 👤</h1>
 
 ### Hello! My name is João Vitor Carmassi, and I’m a web developer specialized in front-end. I have a strong passion for building interactive, responsive, and user-centered interfaces using technologies like React and Tailwind CSS.
 
@@ -15,12 +12,9 @@
 
 ### When I’m not coding, I engage in activities such as gaming, listening to music, watching movies and series, and spending time with friends. I also enjoy exploring new locations, hiking, and participating in outdoor activities, as I believe in the importance of a well-rounded lifestyle for personal growth and maintaining a healthy work-life balance.
 
-
 <br>
 
-<div>
-  <h1 align="center">Languages 📓</h1>
-</div>
+<h1 align="center">Languages 📓</h1>
 
 ### English:
 ### C1 proficiency level – able to communicate fluently, both spoken and written, with a solid understanding of complex texts and technical documentation.
@@ -114,34 +108,37 @@
 
 <div align="center">
   <h1>Contacts 📱</h1>
-  <a href="mailto:joaovitorcarmassi@gmail.com">
-    <img
-      loading="lazy"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="gmail"
-      target="_blank"
-    />
-  </a>
-  <a href="https://www.instagram.com/joao_carmassi/" target="_blank">
-    <img
-      loading="lazy"
-      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="instagram"
-      target="_blank"
-    />
-  </a>
-  <a href="https://www.linkedin.com/in/joão-carmassi/" target="_blank">
-    <img
-      loading="lazy"
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="linkedin"
-      target="_blank"
-    />
-  </a>
-  <a href="https://wa.me/12996661778"
-    ><img
-      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-      target="_blank"
-      alt="whatsapp"
-  /></a>
+  <div>
+    <a href="mailto:joaovitorcarmassi@gmail.com">
+      <img
+        loading="lazy"
+        src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
+        alt="gmail"
+        target="_blank"
+      />
+    </a>
+    <a href="https://www.instagram.com/joao_carmassi/" target="_blank">
+      <img
+        loading="lazy"
+        src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+        alt="instagram"
+        target="_blank"
+      />
+    </a>
+    <a href="https://www.linkedin.com/in/joão-carmassi/" target="_blank">
+      <img
+        loading="lazy"
+        src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        alt="linkedin"
+        target="_blank"
+      />
+    </a>
+    <a href="https://wa.me/12996661778">
+      <img
+        src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
+        target="_blank"
+        alt="whatsapp"
+      />
+    </a>
+  </div>
 </div>
