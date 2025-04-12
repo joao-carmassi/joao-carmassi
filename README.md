@@ -11,9 +11,9 @@
   <h1 align="center">About Me 👤</h1>
 </div>
 
-#### Hello! My name is João Vitor Carmassi, and I’m a web developer specialized in front-end. I have a strong passion for building interactive, responsive, and user-centered interfaces using technologies like React and Tailwind CSS.
+### Hello! My name is João Vitor Carmassi, and I’m a web developer specialized in front-end. I have a strong passion for building interactive, responsive, and user-centered interfaces using technologies like React and Tailwind CSS.
 
-#### I’m always motivated by the constant challenges that programming brings and the chance to create innovative solutions. The tech industry’s evolution keeps me on my toes, and every new learning experience feels like a step forward. Solving real-world problems through code is one of the most rewarding aspects of my work.
+### I’m always motivated by the constant challenges that programming brings and the chance to create innovative solutions. The tech industry’s evolution keeps me on my toes, and every new learning experience feels like a step forward. Solving real-world problems through code is one of the most rewarding aspects of my work.
 
 #### When I’m not coding, I engage in activities such as gaming, listening to music, watching movies and series, and spending time with friends. I also enjoy exploring new locations, hiking, and participating in outdoor activities, as I believe in the importance of a well-rounded lifestyle for personal growth and maintaining a healthy work-life balance.
 
@@ -24,10 +24,10 @@
   <h1 align="center">Languages 📓</h1>
 </div>
 
-## English:
+### English:
 ### C1 proficiency level – able to communicate fluently, both spoken and written, with a solid understanding of complex texts and technical documentation.
 
-## Spanish:
+### Spanish:
 ### B2 level – Upper-intermediate proficiency, able to converse effectively and understand a wide range of topics.
 
 <br>
