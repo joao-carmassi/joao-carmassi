@@ -5,8 +5,6 @@
     />
 </div>
 
-<br>
-
 <div>
   <h1 align="center">About Me 👤</h1>
 </div>
