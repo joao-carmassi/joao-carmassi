@@ -89,6 +89,21 @@
       alt="github"
       src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
     />
+    <img
+      loading="lazy"
+      alt="NPM"
+      src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"
+    />
+    <img
+      loading="lazy"
+      alt="Node.js"
+      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
+    />
+    <img
+      loading="lazy"
+      alt="ESLint"
+      src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"
+    />
   </div>
   
   <br />
