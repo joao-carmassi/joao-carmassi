@@ -76,6 +76,11 @@
     />
     <img
       loading="lazy"
+      alt="Context API"
+      src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black"
+    />
+    <img
+      loading="lazy"
       alt="git"
       src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
     />
