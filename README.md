@@ -1,109 +1,60 @@
-<img
-  alt="banner perfil"
-  src="./public/banner.webp"
-/>
+<div>
+  <img
+    alt="banner perfil"
+    src="./public/banner.webp"
+  />
+</div>
 
-<h1 align="center">About Me 👤</h1>
-
-<h3>Hello! My name is João Vitor Carmassi, and I’m a web developer specialized in front-end. I have a strong passion for building interactive, responsive, and user-centered interfaces using technologies like React and Tailwind CSS.</h3>
-<h3>I’m always motivated by the constant challenges that programming brings and the chance to create innovative solutions. The tech industry’s evolution keeps me on my toes, and every new learning experience feels like a step forward. Solving real-world problems through code is one of the most rewarding aspects of my work.</h3>
-<h3>When I’m not coding, I engage in activities such as gaming, listening to music, watching movies and series, and spending time with friends. I also enjoy exploring new locations, hiking, and participating in outdoor activities, as I believe in the importance of a well-rounded lifestyle for personal growth and maintaining a healthy work-life balance.</h3>
+<div>
+  <h1 align="center">About Me 👤</h1>
+  <h3>
+    Hello! My name is João Vitor Carmassi, and I’m a web developer specialized in front-end. I have a strong passion for building interactive, responsive, and user-centered interfaces using technologies like React and Tailwind CSS.
+  </h3>
+  <h3>
+    I’m always motivated by the constant challenges that programming brings and the chance to create innovative solutions. The tech industry’s evolution keeps me on my toes, and every new learning experience feels like a step forward. Solving real-world problems through code is one of the most rewarding aspects of my work.
+  </h3>
+  <h3>
+    When I’m not coding, I engage in activities such as gaming, listening to music, watching movies and series, and spending time with friends. I also enjoy exploring new locations, hiking, and participating in outdoor activities, as I believe in the importance of a well-rounded lifestyle for personal growth and maintaining a healthy work-life balance.
+  </h3>
+</div>
 
 <br>
 
-<h1 align="center">Languages 📓</h1>
+<div>
+  <h1 align="center">Languages 📓</h1>
+  <h3>English:</h3>
+  <h3>
+    C1 proficiency level – able to communicate fluently, both spoken and written, with a solid understanding of complex texts and technical documentation.
+  </h3>
+</div>
 
-<h3>English:</h3>
-<h3>C1 proficiency level – able to communicate fluently, both spoken and written, with a solid understanding of complex texts and technical documentation.</h3>
-
-<h3>Spanish:</h3>
-<h3>B2 level – Upper-intermediate proficiency, able to converse effectively and understand a wide range of topics.</h3>
+<div>
+  <h3>Spanish:</h3>
+  <h3>
+    B2 level – Upper-intermediate proficiency, able to converse effectively and understand a wide range of topics.
+  </h3>
+</div>
 
 <br>
 
 <div align="center">
   <h1>Personal Stats ⚡</h1>
   <div>
-    <img
-      loading="lazy"
-      alt="html"
-      src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"
-    />
-    <img
-      loading="lazy"
-      alt="css"
-      src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"
-    />
-    <img
-      loading="lazy"
-      alt="tailwindcss"
-      src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white"
-    />
-    <img
-      loading="lazy"
-      alt="bootstrap"
-      src="https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white"
-    />
-    <img
-      loading="lazy"
-      alt="SASS"
-      src="https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white"
-    />
-    <img
-      loading="lazy"
-      alt="JavaScript"
-      src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"
-    />
-    <img
-      loading="lazy"
-      alt="typescript"
-      src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"
-    />
-    <img
-      loading="lazy"
-      alt="vuejs"
-      src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"
-    />
-    <img
-      loading="lazy"
-      alt="react"
-      src="https://shields.io/badge/react-black?logo=react&style=for-the-badge"
-    />
-    <img
-      loading="lazy"
-      alt="next"
-      src="https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"
-    />
-    <img
-      loading="lazy"
-      alt="Context API"
-      src="https://img.shields.io/badge/Context_API-61DAFB?style=for-the-badge&logo=react&logoColor=black"
-    />
-    <img
-      loading="lazy"
-      alt="git"
-      src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"
-    />
-    <img
-      loading="lazy"
-      alt="github"
-      src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"
-    />
-    <img
-      loading="lazy"
-      alt="NPM"
-      src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white"
-    />
-    <img
-      loading="lazy"
-      alt="Node.js"
-      src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"
-    />
-    <img
-      loading="lazy"
-      alt="ESLint"
-      src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5" loading="lazy" />
+    <img src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=ffffff" alt="CSS3" loading="lazy" />
+    <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="tailwind" loading="lazy" />
+    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff" alt="bootstrap" loading="lazy" />
+    <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff" alt="SASS" loading="lazy" />
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" loading="lazy" />
+    <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="typescript" loading="lazy" />
+    <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=ffffff" alt="vue" loading="lazy" />
+    <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="react" loading="lazy" />
+    <img src="https://img.shields.io/badge/Contex API-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="Contex API" loading="lazy" />
+    <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" loading="lazy" />
+    <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="git" loading="lazy" />
+    <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="github" loading="lazy" />
+    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=ffffff" alt="NPM" loading="lazy" />
+    <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=ffffff" alt="ESLint" loading="lazy" />
   </div>
   
   <br />
