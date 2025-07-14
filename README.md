@@ -10,12 +10,21 @@
   <h3>
     Hello! My name is João Vitor Carmassi, and I’m a web developer specialized in front-end. I have a strong passion for building interactive, responsive, and user-centered interfaces using technologies like React and Tailwind CSS.
   </h3>
+  <p>
+    Olá! Meu nome é João Vitor Carmassi e sou desenvolvedor web especializado em front-end. Sou apaixonado por construir interfaces interativas, responsivas e centradas no usuário, utilizando tecnologias como React e Tailwind CSS.
+  </p>
   <h3>
     I’m always motivated by the constant challenges that programming brings and the chance to create innovative solutions. The tech industry’s evolution keeps me on my toes, and every new learning experience feels like a step forward. Solving real-world problems through code is one of the most rewarding aspects of my work.
   </h3>
+  <p>
+    Sou sempre motivado pelos desafios constantes que a programação traz e pela oportunidade de criar soluções inovadoras. A evolução da indústria tecnológica me mantém sempre em alerta, e cada nova experiência de aprendizado é um passo à frente. Resolver problemas do mundo real por meio de código é um dos aspectos mais gratificantes do meu trabalho.
+  </p>
   <h3>
     When I’m not coding, I engage in activities such as gaming, listening to music, watching movies and series, and spending time with friends. I also enjoy exploring new locations, hiking, and participating in outdoor activities, as I believe in the importance of a well-rounded lifestyle for personal growth and maintaining a healthy work-life balance.
   </h3>
+  <p>
+    Quando não estou programando, pratico atividades como jogar, ouvir música, assistir a filmes e séries e passar tempo com amigos. Também gosto de explorar novos lugares, fazer trilhas e participar de atividades ao ar livre, pois acredito na importância de um estilo de vida equilibrado para o crescimento pessoal e para manter um equilíbrio saudável entre vida pessoal e profissional.
+  </p>
 </div>
 
 <br>
@@ -26,6 +35,9 @@
   <h3>
     C1 proficiency level – able to communicate fluently, both spoken and written, with a solid understanding of complex texts and technical documentation.
   </h3>
+  <p>
+    Nível de proficiência C1 – capaz de se comunicar fluentemente, tanto oralmente quanto por escrito, com sólida compreensão de textos complexos e documentação técnica.
+  </p>
 </div>
 
 <div>
@@ -33,6 +45,9 @@
   <h3>
     B2 level – Upper-intermediate proficiency, able to converse effectively and understand a wide range of topics.
   </h3>
+  <p>
+    Nível B2 – Proficiência intermediária-alta, capacidade de conversar efetivamente e entender uma ampla gama de tópicos.
+  </p>
 </div>
 
 <br>
