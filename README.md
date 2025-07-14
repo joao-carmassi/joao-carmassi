@@ -52,7 +52,6 @@
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" loading="lazy" />
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="git" loading="lazy" />
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="github" loading="lazy" />
-    <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=NPM&logoColor=ffffff" alt="NPM" loading="lazy" />
     <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=ffffff" alt="ESLint" loading="lazy" />
   </div>
   
