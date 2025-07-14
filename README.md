@@ -43,7 +43,6 @@
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=ffffff" alt="HTML5" loading="lazy" />
     <img src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=ffffff" alt="CSS3" loading="lazy" />
     <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="tailwind" loading="lazy" />
-    <img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=ffffff" alt="bootstrap" loading="lazy" />
     <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff" alt="SASS" loading="lazy" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" loading="lazy" />
     <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="typescript" loading="lazy" />
