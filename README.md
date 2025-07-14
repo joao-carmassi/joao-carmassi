@@ -47,7 +47,6 @@
     <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff" alt="SASS" loading="lazy" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="JavaScript" loading="lazy" />
     <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="typescript" loading="lazy" />
-    <img src="https://img.shields.io/badge/vue-4FC08D?style=for-the-badge&logo=vuedotjs&logoColor=ffffff" alt="vue" loading="lazy" />
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="react" loading="lazy" />
     <img src="https://img.shields.io/badge/Contex API-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="Contex API" loading="lazy" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" loading="lazy" />
