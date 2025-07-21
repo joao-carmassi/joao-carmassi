@@ -63,6 +63,7 @@
     <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="typescript" loading="lazy" />
     <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="react" loading="lazy" />
     <img src="https://img.shields.io/badge/Contex API-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="Contex API" loading="lazy" />
+    <img src="https://img.shields.io/badge/redux-764ABC?style=for-the-badge&logo=redux&logoColor=ffffff" alt="redux" loading="lazy" />
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" loading="lazy" />
     <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="git" loading="lazy" />
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="github" loading="lazy" />
