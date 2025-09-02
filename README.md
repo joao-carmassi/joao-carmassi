@@ -1,7 +1,7 @@
 <div>
   <img
     alt="banner perfil"
-    src="./public/banner.webp"
+    src="./public/imgBanner.webp"
   />
 </div>
 
@@ -68,10 +68,10 @@
     <tbody>
       <tr>
         <td>
-          <img src='./public/certificadoIngles.webp'/>
+          <img src='./public/imgCertificadoIngles.webp'/>
         </td>
         <td>
-          <img src='./public/certificadoEspanhol.webp'/>
+          <img src='./public/imgCertificadoEspanhol.webp'/>
         </td>
       </tr>
     </tbody>
