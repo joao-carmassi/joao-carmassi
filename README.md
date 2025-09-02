@@ -61,8 +61,12 @@
   <table>
     <thead>
       <tr>
-        <th>English C1</th>
-        <th>Spanish B2</th>
+        <th>
+          <h3>English C1</h3>
+        </th>
+        <th>
+          <h3>Spanish B2</h3>
+        </th>
       </tr>
     </thead>
     <tbody>
