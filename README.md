@@ -87,34 +87,15 @@
 <div align="center">
   <h1>Contacts 📱</h1>
   <a href="mailto:joaovitorcarmassi@gmail.com">
-    <img
-      loading="lazy"
-      src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
-      alt="gmail"
-      target="_blank"
-    />
+    <img src="https://img.shields.io/badge/gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=ffffff" alt="gmail" loading="lazy" />
   </a>
   <a href="https://www.instagram.com/joao_carmassi/" target="_blank">
-    <img
-      loading="lazy"
-      src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-      alt="instagram"
-      target="_blank"
-    />
+    <img src="https://img.shields.io/badge/instagram-FF0069?style=for-the-badge&logo=instagram&logoColor=ffffff" alt="instagram" loading="lazy" />
   </a>
   <a href="https://www.linkedin.com/in/joão-carmassi/" target="_blank">
-    <img
-      loading="lazy"
-      src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-      alt="linkedin"
-      target="_blank"
-    />
+    <img src="https://img.shields.io/badge/linkedin -0e76a8?style=for-the-badge&logoColor=ffffff" alt="linkedin " loading="lazy" />
   </a>
   <a href="https://wa.me/12996661778">
-    <img
-      src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"
-      target="_blank"
-      alt="whatsapp"
-    />
+    <img src="https://img.shields.io/badge/whatsapp-25D366?style=for-the-badge&logo=whatsapp&logoColor=ffffff" alt="whatsapp" loading="lazy" />
   </a>
 </div>
