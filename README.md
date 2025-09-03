@@ -62,10 +62,10 @@
     <thead>
       <tr>
         <th>
-          <h3>English C1</h3>
+          English C1
         </th>
         <th>
-          <h3>Spanish B2</h3>
+          Spanish B2
         </th>
       </tr>
     </thead>
