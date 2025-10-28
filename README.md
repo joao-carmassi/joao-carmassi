@@ -36,6 +36,9 @@
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="git" loading="lazy" />
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=ffffff" alt="github" loading="lazy" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=ffffff" alt="ESLint" loading="lazy" />
+  <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=ffffff" alt="jest" loading="lazy" />
+  <img src="https://img.shields.io/badge/cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=ffffff" alt="cypress" loading="lazy" />
+  <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff" alt="postman" loading="lazy" />
   <img src="https://img.shields.io/badge/Scrum-F59E0B?style=for-the-badge&logoColor=ffffff" alt="Scrum" loading="lazy" />
   <img src="https://img.shields.io/badge/Kanban-10B981?style=for-the-badge&logoColor=ffffff" alt="Kanban" loading="lazy" />
 </div>
