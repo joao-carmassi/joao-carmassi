@@ -31,6 +31,7 @@
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" loading="lazy" />
   <img src="https://img.shields.io/badge/shadcnui-000000?style=for-the-badge&logo=shadcnui&logoColor=ffffff" alt="shadcnui" loading="lazy" />
   <img src="https://img.shields.io/badge/Motion-fef62a?style=for-the-badge&logoColor=ffffff" alt="Motion" loading="lazy" />
+  <img src="https://img.shields.io/badge/gsap-0AE448?style=for-the-badge&logo=gsap&logoColor=ffffff" alt="gsap" loading="lazy" />
   <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=ffffff" alt="reactquery" loading="lazy" />
   <img src="https://img.shields.io/badge/zustand-E76F51?style=for-the-badge&logoColor=ffffff" alt="zustand" loading="lazy" />
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="git" loading="lazy" />
