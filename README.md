@@ -8,13 +8,16 @@
 <div>
   <h1 align="center">About Me 👤</h1>
   <h3>
-    Hello! My name is João Vitor Carmassi, and I’m a web developer specialized in front-end. I have a strong passion for building interactive, responsive, and user-centered interfaces using technologies like React and Tailwind CSS.
+    Hello! My name is João Vitor Carmassi, and I’m a Front-End Developer specialized in building interactive, responsive, and user-centered interfaces using technologies such as React and Tailwind CSS. I have designed, developed, and optimized digital experiences that combine performance, usability, and modern design standards.
   </h3>
   <h3>
-    I’m always motivated by the constant challenges that programming brings and the chance to create innovative solutions. The tech industry’s evolution keeps me on my toes, and every new learning experience feels like a step forward. Solving real-world problems through code is one of the most rewarding aspects of my work.
+    I’m driven by complex challenges and the opportunity to engineer innovative solutions. I continuously research, analyze, and implement emerging technologies to stay aligned with industry evolution. Solving real-world problems through code allows me to deliver measurable impact and create scalable, high-quality products.
   </h3>
   <h3>
-    When I’m not coding, I engage in activities such as gaming, listening to music, watching movies and series, and spending time with friends. I also enjoy exploring new locations, hiking, and participating in outdoor activities, as I believe in the importance of a well-rounded lifestyle for personal growth and maintaining a healthy work-life balance.
+    Beyond technical execution, I value collaboration and have collaborated, communicated, and contributed effectively within teams to achieve shared goals. I also actively pursue continuous improvement, consistently strengthening both technical and strategic skills.
+  </h3>
+  <h3>
+    Outside of work, I engage in gaming, music, movies, and outdoor activities such as hiking and exploring new places. These experiences enhance creativity, balance, and perspective, supporting both personal development and professional performance.
   </h3>
 </div>
 
@@ -29,6 +32,7 @@
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="typescript" loading="lazy" />
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="react" loading="lazy" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" loading="lazy" />
+  <img src="https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=astro&logoColor=ffffff" alt="astro" loading="lazy" />
   <img src="https://img.shields.io/badge/shadcnui-000000?style=for-the-badge&logo=shadcnui&logoColor=ffffff" alt="shadcnui" loading="lazy" />
   <img src="https://img.shields.io/badge/Motion-fef62a?style=for-the-badge&logoColor=ffffff" alt="Motion" loading="lazy" />
   <img src="https://img.shields.io/badge/gsap-0AE448?style=for-the-badge&logo=gsap&logoColor=ffffff" alt="gsap" loading="lazy" />
