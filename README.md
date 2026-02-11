@@ -29,11 +29,11 @@
   <img src="https://img.shields.io/badge/CSS3-663399?style=for-the-badge&logo=css&logoColor=ffffff" alt="CSS3" loading="lazy" />
   <img src="https://img.shields.io/badge/tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=ffffff" alt="tailwind" loading="lazy" />
   <img src="https://img.shields.io/badge/SASS-CC6699?style=for-the-badge&logo=sass&logoColor=ffffff" alt="SASS" loading="lazy" />
+  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000000" alt="javascript" loading="lazy" />
   <img src="https://img.shields.io/badge/typescript-3178C6?style=for-the-badge&logo=typescript&logoColor=ffffff" alt="typescript" loading="lazy" />
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="react" loading="lazy" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" loading="lazy" />
-  <img src="https://img.shields.io/badge/astro-BC52EE?style=for-the-badge&logo=astro&logoColor=ffffff" alt="astro" loading="lazy" />
-  <img src="https://img.shields.io/badge/shadcnui-000000?style=for-the-badge&logo=shadcnui&logoColor=ffffff" alt="shadcnui" loading="lazy" />
+  <img src="https://img.shields.io/badge/astro-000000?style=for-the-badge&logo=astro&logoColor=ffffff" alt="astro" loading="lazy" />
   <img src="https://img.shields.io/badge/Motion-fef62a?style=for-the-badge&logoColor=ffffff" alt="Motion" loading="lazy" />
   <img src="https://img.shields.io/badge/gsap-0AE448?style=for-the-badge&logo=gsap&logoColor=ffffff" alt="gsap" loading="lazy" />
   <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=ffffff" alt="reactquery" loading="lazy" />
