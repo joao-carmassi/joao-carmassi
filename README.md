@@ -50,12 +50,12 @@
   
 <div>
   <img
-    width="40%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao-carmassi&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=0d1117&show_icons=true&layout=donut"
+    width="59%"
+    src="https://github-readme-stats-eight-theta.vercel.app/api?username=joao-carmassi&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=0d1117&show_icons=true"
   />
   <img
-    width="59%"
-    src="https://github-readme-stats.vercel.app/api?username=joao-carmassi&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=0d1117&show_icons=true"
+    width="40%"
+    src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=joao-carmassi&title_color=a855f7&icon_color=a855f7&text_color=ffffff&bg_color=0d1117&show_icons=true&layout=donut"
   />
   <img
     src="https://github-readme-activity-graph.vercel.app/graph?username=joao-carmassi&bg_color=0d1117&color=ffffff&line=ffffff&point=a855f7&area=true&hide_border=true"
