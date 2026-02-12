@@ -34,16 +34,16 @@
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="react" loading="lazy" />
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=ffffff" alt="Next.js" loading="lazy" />
   <img src="https://img.shields.io/badge/astro-000000?style=for-the-badge&logo=astro&logoColor=ffffff" alt="astro" loading="lazy" />
-  <img src="https://img.shields.io/badge/Motion-fef62a?style=for-the-badge&logoColor=ffffff" alt="Motion" loading="lazy" />
-  <img src="https://img.shields.io/badge/gsap-0AE448?style=for-the-badge&logo=gsap&logoColor=ffffff" alt="gsap" loading="lazy" />
   <img src="https://img.shields.io/badge/reactquery-FF4154?style=for-the-badge&logo=reactquery&logoColor=ffffff" alt="reactquery" loading="lazy" />
   <img src="https://img.shields.io/badge/zustand-E76F51?style=for-the-badge&logoColor=ffffff" alt="zustand" loading="lazy" />
+  <img src="https://img.shields.io/badge/context api-61DAFB?style=for-the-badge&logo=react&logoColor=000000" alt="context api" loading="lazy" />
   <img src="https://img.shields.io/badge/git-F05032?style=for-the-badge&logo=git&logoColor=ffffff" alt="git" loading="lazy" />
   <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=ESLint&logoColor=ffffff" alt="ESLint" loading="lazy" />
   <img src="https://img.shields.io/badge/jest-C21325?style=for-the-badge&logo=jest&logoColor=ffffff" alt="jest" loading="lazy" />
   <img src="https://img.shields.io/badge/cypress-69D3A7?style=for-the-badge&logo=cypress&logoColor=ffffff" alt="cypress" loading="lazy" />
   <img src="https://img.shields.io/badge/postman-FF6C37?style=for-the-badge&logo=postman&logoColor=ffffff" alt="postman" loading="lazy" />
-  <img src="https://img.shields.io/badge/Scrum-F59E0B?style=for-the-badge&logoColor=ffffff" alt="Scrum" loading="lazy" />
+  <img src="https://img.shields.io/badge/Motion-fef62a?style=for-the-badge&logoColor=ffffff" alt="Motion" loading="lazy" />
+  <img src="https://img.shields.io/badge/gsap-0AE448?style=for-the-badge&logo=gsap&logoColor=ffffff" alt="gsap" loading="lazy" />
 </div>
   
 <br />
