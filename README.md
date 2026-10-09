@@ -8,13 +8,13 @@
 <div>
   <h1 align="center">About Me 👤</h1>
   <h3>
-    Hello! My name is João Vitor Carmassi, and I’m a Front-End Developer specialized in building interactive, responsive, and user-centered interfaces using technologies such as React and Tailwind CSS. I have designed, developed, and optimized digital experiences that combine performance, usability, and modern design standards.
+    Hello! My name is João Vitor Carmassi, and I’m a Front-End Developer specialized in building fast, responsive, and SEO-driven websites and SaaS products using technologies such as React, Next.js, Astro, TypeScript, and Tailwind CSS. Today I work as a contractor for Quotation Factory, a Netherlands-based software company, and I also take on freelance projects for small businesses.
   </h3>
   <h3>
-    I’m driven by complex challenges and the opportunity to engineer innovative solutions. I continuously research, analyze, and implement emerging technologies to stay aligned with industry evolution. Solving real-world problems through code allows me to deliver measurable impact and create scalable, high-quality products.
+    I turn designs into accessible, high-performance interfaces and build the features behind them, such as authentication, subscription billing, analytics dashboards, and CMS-driven pages with Payload CMS. On the SEO side, I work with semantic HTML, structured data, keyword research, and Core Web Vitals; my projects reach 100 in every Lighthouse category, and one of them draws around 5k users per quarter, nearly all from organic search.
   </h3>
   <h3>
-    Beyond technical execution, I value collaboration and have collaborated, communicated, and contributed effectively within teams to achieve shared goals. I also actively pursue continuous improvement, consistently strengthening both technical and strategic skills.
+    Beyond technical execution, I value clear communication and work closely with design and backend teams, owning features from scope to release. I also actively pursue continuous improvement, studying and applying new tools and best practices to strengthen both technical and strategic skills.
   </h3>
   <h3>
     Outside of work, I engage in gaming, music, movies, and outdoor activities such as hiking and exploring new places. These experiences enhance creativity, balance, and perspective, supporting both personal development and professional performance.
